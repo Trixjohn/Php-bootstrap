@@ -1,0 +1,8 @@
+// 1. Change the yellow to a deep Gold
+$warning: #ffb700; 
+
+// 2. Change the black background to a very dark grey
+$body-bg: #121212;
+
+// 3. Import Bootstrap (this MUST stay at the bottom)
+@import "../node_modules/bootstrap/scss/bootstrap";
