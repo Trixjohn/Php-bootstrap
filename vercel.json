@@ -6,5 +6,8 @@
   },
   "routes": [
     { "src": "/(.*)", "dest": "/api/$1" }
-  ]
+  ],
+  "projectSettings": {
+    "nodeVersion": "20.x"
+  }
 }
