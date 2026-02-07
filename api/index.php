@@ -11,7 +11,7 @@
                 <div class="col-md-4">
                     <div class="card bg-dark text-white border-warning h-100 shadow">
                         <div class="card-body d-flex flex-column">
-                            <h5 class="card-title text-warning">Basketball Finals</h5>
+                            <h5 class="card-title text-warning">Basketball opening</h5>
                             <p class="card-text text-secondary">The ultimate showdown between CITC and CEA departments.</p>
                             <div class="mt-auto">
                                 <p class="small mb-2">📍 USTP Gymnasium</p>
